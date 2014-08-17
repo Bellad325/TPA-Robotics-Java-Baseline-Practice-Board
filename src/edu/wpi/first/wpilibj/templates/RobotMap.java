@@ -14,7 +14,7 @@ public class RobotMap {
     // Not meant to be initialized.
     private RobotMap() {}
     
-    //test
+    //test 2
     public static final int MOTOR_PORT = 1;
     public static final int JOYSTICK_ONE_PORT = 1;
 }
